@@ -1,11 +1,16 @@
 # kinship-detection-project
-This project was made as part of a "Data mining in large databases" course in the university.
-As part of this project, the dataset "Families in the Wild" was used to train different Siamese networks to perform kinship classification between people using face images.
-This repository contains the final report submited, showing the results.
-Additionally, the code files created and used to produce results is found under the code directory with the following files:
-  * kinship_image_data_class.py - Code created to process the image dataset and allow using it for model training purposes.
-  * main code.ipynb - Contains the code for creating the architectures used as well as the training and testing code.
-  * EDA and Results.ipynb - Contains code responsible for plots seen in the report which allow EDA and results evaluation.
+This project was developed as part of a university "Data Mining in Large Databases" course.
+
+The goal of this project was to train Siamese networks for kinship classification using face images. The Families in the Wild dataset was used to evaluate different architectures for determining familial relationships based on facial similarity.
+
+📂 Repository Contents
+This repository includes:
+
+Final Report 📄 – The submitted report detailing the models, experiments, and results.
+Code Directory 💻 – Contains all scripts and notebooks used in the project:
+ * kinship_image_data_class.py – Processes the image dataset and prepares it for model training.
+ * main code.ipynb – Defines the model architectures and includes training and testing code.
+ * EDA and Results.ipynb – Generates plots for exploratory data analysis (EDA) and result evaluation, as shown in the report.
 
 ---
 
