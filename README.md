@@ -6,3 +6,8 @@ Additionally, the code files created and used to produce results is found under 
   * kinship_image_data_class.py - Code created to process the image dataset and allow using it for model training purposes.
   * main code.ipynb - Contains the code for creating the architectures used as well as the training and testing code.
   * EDA and Results.ipynb - Contains code responsible for plots seen in the report which allow EDA and results evaluation.
+
+---
+
+**Disclaimer:**  
+This project was created as part of a university assignment and is provided for educational purposes only. It is licensed under the [MIT License](./LICENSE), and the author assumes no responsibility for any consequences resulting from the use, modification, or distribution of this software.
