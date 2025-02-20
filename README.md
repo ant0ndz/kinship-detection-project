@@ -4,7 +4,9 @@ This project was developed as part of a university "Data Mining in Large Databas
 The goal of this project was to train Siamese networks for kinship classification using face images. The Families in the Wild dataset was used to evaluate different architectures for determining familial relationships based on facial similarity.
 
 📂 Repository Contents
+
 Final Report 📄 – The submitted report detailing the models, experiments, and results.
+
 Code Directory 💻 – Contains all scripts and notebooks used in the project:
  * kinship_image_data_class.py – Processes the image dataset and prepares it for model training.
  * main code.ipynb – Defines the model architectures and includes training and testing code.
